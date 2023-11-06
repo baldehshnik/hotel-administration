@@ -1,0 +1,30 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.vd.university'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    String ormliteVersion = '5.1'
+
+    implementation 'ch.qos.logback:logback-classic:1.2.9'
+
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+
+    implementation 'com.j256.ormlite:ormlite-core:' + ormliteVersion
+    implementation 'com.j256.ormlite:ormlite-jdbc:' + ormliteVersion
+
+    implementation 'com.google.code.gson:gson:2.10.1'
+
+    implementation 'org.xerial:sqlite-jdbc:3.34.0'
+}
+
+test {
+    useJUnitPlatform()
+}

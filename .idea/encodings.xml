@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/data/entity/ClientEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/data/entity/OrderEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/data/entity/RoomEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/data/repository/ClientDataRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/data/source/ConnectionDataSource.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/data/source/HotelDatabase.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/di/ApplicationComponent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/di/annotation/SingletonScope.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/di/module/DataModule.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/presentation/application/Application.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/presentation/application/Context.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/presentation/presenter/HotelPresenter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/presentation/repository/IClientRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/presentation/screen/activity/Activity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/presentation/screen/activity/Activity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/presentation/screen/client/home/ClientHomeScreen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vd/university/util/annotation/ORMUsage.java" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
